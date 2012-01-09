@@ -1,0 +1,21 @@
+Requirements================================================================================================
+
+[1.0.0]. The system shall display the address book in a list.
+
+[1.2.0]. The system shall be sortable (example select A and get listing of names that start with A).
+[1.2.1]. The sort shall work by last names.
+
+[2.0.0]. The system shall allow the input of an entry[2.0.1]
+[2.0.1]. The entry shall consist of a First and Last name, Address, phone number, and email address.
+[2.1.0]. The system shall allow the entry of an optional not with each entry.
+
+[3.0.0]. The system shall allow the entries [2.0.1] and [2.1.0] to be updated.
+
+[4.0.0]. The system shall have a main menu.
+[4.1.0]. The main menu shall contain options for adding entries, updating entries, deleting entrys,display entries, and exporting entries.
+
+[5.0.0]. The system shall allow the creation of multiple address books OR labels TBD* (example: School, work, family, ...)
+
+
+
+*TBD - "To Be Decided"
